@@ -19,7 +19,6 @@
 ### I'm currently working on:
 
 - **Smart Folder Cleaner**: A Python app that detects duplicate files using hashing
-- **To-Do List App**: A web app built at a hackathon (Node.js + HTML/CSS)
 - Creating my personal website with GitHub Pages
 
 ---
