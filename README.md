@@ -3,8 +3,8 @@
 ---
 ### About ME
 - Bachelor of Science / Master of Engineering (Software) at the University of Melbourne 🎓 
-- Curious about how code meets real-world problem-solving  
-- Interested in building tools that improve digital life and the intersection of finance and technology!
+- Curious about the intersection of finance and technology!  
+- Interested in building tools that improve daily digital life 
   
 ---
 ### My Interests
