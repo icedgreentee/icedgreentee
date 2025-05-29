@@ -12,7 +12,7 @@
 | My Interests | Currently Learning |
 |--------------|---------------------|
 | Front-end development (HTML, CSS, JS) | Python, C# |
-| File system tools & automation | Git/GitHub workflows |
+| Vlogging and Content Creation | Git/GitHub workflows |
 | Tech policy, Fintech & digital equity | Portfolio building  |
 
 ---
@@ -25,5 +25,6 @@
 ### 🔗 Connect with me:
 - 📧 Email: [tanvimishra906@gmail.com](mailto:tanvimishra906@gmail.com)
 - 💼 LinkedIn: [tanvi-mishra-b03411262](https://www.linkedin.com/in/tanvi-mishra-b03411262)
+- 🌴 Linktree: [https://linktr.ee/xoxoteetime)
   
 ---
