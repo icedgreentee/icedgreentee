@@ -4,15 +4,15 @@
 ### About ME
 - Bachelor of Science / Master of Engineering (Software) at the University of Melbourne 🎓 
 - Curious about the intersection of finance and technology!  
-- Interested in building tools that improve daily digital life 
+- Recently picked up an interest in content creation
   
 ---
 ### My Interests
 
 | My Interests | Currently Learning |
 |--------------|---------------------|
-| Front-end development (HTML, CSS, JS) | Python, C# |
-| Vlogging and Content Creation | Git/GitHub workflows |
+| Photography and Content Creation | Python, C# |
+| Front-end development (HTML, CSS, JS) | Git/GitHub workflows |
 | Tech policy, Fintech & digital equity | Portfolio building  |
 
 ---
@@ -25,6 +25,6 @@
 ### 🔗 Connect with me:
 - 📧 Email: [tanvimishra906@gmail.com](mailto:tanvimishra906@gmail.com)
 - 💼 LinkedIn: [tanvi-mishra-b03411262](https://www.linkedin.com/in/tanvi-mishra-b03411262)
-- 🌴 Linktree: [https://linktr.ee/xoxoteetime)
+- 🌴 Linktree: https://linktr.ee/xoxoteetime
   
 ---
