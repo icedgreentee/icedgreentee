@@ -12,7 +12,7 @@
 | My Interests | Currently Learning |
 |--------------|---------------------|
 | Photography and Content Creation | Python, C# |
-| Front-end development (HTML, CSS, JS) | Git/GitHub workflows |
+| Front-end development (HTML, CSS, JS) | GitHub workflows |
 | Tech policy, Fintech & digital equity | Portfolio building  |
 
 ---
@@ -21,7 +21,7 @@
 - **Smart Folder Cleaner**: A Python app that detects duplicate files using hashing
 - Creating my personal website with GitHub Pages
 
----
+---w
 ### 🔗 Connect with me:
 - 📧 Email: [tanvimishra906@gmail.com](mailto:tanvimishra906@gmail.com)
 - 💼 LinkedIn: [tanvi-mishra-b03411262](https://www.linkedin.com/in/tanvi-mishra-b03411262)
