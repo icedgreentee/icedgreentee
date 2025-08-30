@@ -13,13 +13,13 @@
 |--------------|---------------------|
 | Photography and Content Creation | Python, C# |
 | Front-end development (HTML, CSS, JS) | GitHub workflows |
-| Tech policy, Fintech & digital equity | Portfolio building  |
+| Tech policy | Portfolio building  |
 
 --- 
 ### I'm currently working on:
 
 - Creating my personal website with GitHub Pages
-- A WAM Calculator Project
+- Vibe Coding some cute personal projects!
 
 ---
 ### 🔗 Connect with me:
